@@ -1,0 +1,1 @@
+Hello, poll scm example!
